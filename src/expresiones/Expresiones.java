@@ -15,7 +15,7 @@ public class Expresiones {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        cadenas();
     }
 
     /**
@@ -31,11 +31,16 @@ public class Expresiones {
     public static void comparacion() {
 
     }
-    
+
     /**
      * Método para ejercicios con cadenas.
      */
-    public static void cadenas(){
+    public static void cadenas() {
+        String a = "Yo";
+        String b = "aprendo";
+        String c = "Java";
+        
+        //Escribe acontinuación la expresión para imprimir las cadenas que quieras probar.
         
     }
 }
