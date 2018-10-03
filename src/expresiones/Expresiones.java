@@ -39,10 +39,11 @@ public class Expresiones {
         String a = "Yo";
         String b = "aprendo";
         String c = "Java";
+        int x = 0;
         
         String s = "Aprender Java es divertido!";
         
         //Escribe acontinuación la expresión para imprimir las cadenas que quieras probar.
-        
+
     }
 }
