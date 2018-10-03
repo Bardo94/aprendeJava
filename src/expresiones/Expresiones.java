@@ -30,5 +30,12 @@ public class Expresiones {
      */
     public static void comparacion() {
 
+        //Utilizamos la expresión if (si) para comprobar el resultado de la comparación
+        int x = 6;
+        if (5 < x) {  //puedes cambiar la expresión para comprobar el resultado de otras
+            System.out.println("El valor X está comprendido entre 5 y 10");
+        } else {
+            System.out.println("El valor X NO está comprendido entre 5 y 10");
+        }
     }
 }
