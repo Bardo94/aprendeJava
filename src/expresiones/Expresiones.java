@@ -24,9 +24,9 @@ public class Expresiones {
     public static void precedencia() {
         //Expresiones declaración de las variables de un tipo básico.
         int expresion1 = 0;
-        int expresion2 = 0;
+        int expresion2;
         int expresion3;
-        int expresion4 = 0;
+        int expresion4;
 
         //Asigna expresiones a cada una de las variables.
         //Imprime en la consola el valor de las expresiones.
