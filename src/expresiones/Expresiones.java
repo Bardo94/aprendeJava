@@ -15,7 +15,8 @@ public class Expresiones {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        precedencia();
     }
 
     /**
@@ -23,7 +24,7 @@ public class Expresiones {
      */
     public static void precedencia() {
         //Expresiones declaración de las variables de un tipo básico.
-        int expresion1 = 0;
+        int expresion1;
 
         //Asigna expresiones a cada una de las variables.
         
