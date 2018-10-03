@@ -31,4 +31,11 @@ public class Expresiones {
     public static void comparacion() {
 
     }
+    
+    /**
+     * Método para ejercicios con cadenas.
+     */
+    public static void cadenas(){
+        
+    }
 }
