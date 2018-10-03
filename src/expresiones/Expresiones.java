@@ -23,7 +23,12 @@ public class Expresiones {
      */
     public static void precedencia() {
 
-
     }
 
+    /**
+     * Método con expresiones de comparación.
+     */
+    public static void comparacion() {
+
+    }
 }
