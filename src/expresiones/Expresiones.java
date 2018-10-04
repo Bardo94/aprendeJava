@@ -38,4 +38,11 @@ public class Expresiones {
     public static void cadenas(){
         
     }
+    
+    /**
+     * Método para ejercicios de expresiones de cálculo numérico
+     */
+    public static void combinado(){
+        
+    }
 }
