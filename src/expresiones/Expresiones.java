@@ -43,6 +43,8 @@ public class Expresiones {
      * Método para ejercicios de expresiones de cálculo numérico
      */
     public static void combinado(){
+        int n = 5;
         
+        //Escribe aquí las expresiones que quieras comprobar.
     }
 }
